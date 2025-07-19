@@ -1,4 +1,4 @@
- # 11909_springboot741毕业生信息招聘平台.mp4
+ # 11909_springboot毕业生信息招聘平台
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=11909
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=11909
  
  
  * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/56%E5%A5%97-1-springboot%E5%BD%95%E5%83%8F/11909_springboot741%E6%AF%95%E4%B8%9A%E7%94%9F%E4%BF%A1%E6%81%AF%E6%8B%9B%E8%81%98%E5%B9%B3%E5%8F%B0.mp4
